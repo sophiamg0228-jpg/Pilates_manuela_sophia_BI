@@ -1,0 +1,15 @@
+# Credenciales
+.env
+
+# Wallet de Oracle
+wallet_ADBG06/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
